@@ -1,0 +1,33 @@
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #5f87ad;
+    padding: 50px;
+}
+
+.titulo-principal {
+    text-align: center;
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+canvas {
+    margin: 20px 0 40px;
+    padding-inline: 20px;
+    image-rendering: center;
+}
+
+script {
+    margin: 20px 0 40px;
+    padding: 50px;
+    image-rendering: auto;
+}
